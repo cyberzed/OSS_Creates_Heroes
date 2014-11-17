@@ -4,7 +4,7 @@
 
 * Who's here
 	* Developers
-	* Teamleads
+	* Teamlead
 	* Managers
 	* Others?
 * OSS Projects
@@ -22,11 +22,11 @@
 ###How do we motivate?
 
 * Sex, drugs & rock 'n' roll
-	* Way of the dotCom age
+	* Way of the .com age
 * Money
 * Less Hours
 * Parties
-* Interresting Assignments
+* Interesting Assignments
 
 ###What do these people have in common
 
@@ -65,7 +65,7 @@
 
 * Carrot/Stick
 	* Doesn't really get OSS...there is no monetary/material reward
-	* If provided with a price it's like a drug...addiction and tollerance
+	* If provided with a price it's like a drug...addiction and tolerance
 		* Diminishing returns
 	* Perfect for algorithmic work
 	* Extrinsic
@@ -73,7 +73,7 @@
 	* Creative thinkers
 	* Innovation is flowing like honey
 	* Not only for profit
-	* Greate for heuristic work
+	* Great for heuristic work
 	* Intrinsic
 
 ###Why are the two drives important
@@ -84,13 +84,13 @@
 	* A/B
 		* A
 			* Competitive drive
-			* Aggresiveness
+			* Aggressiveness
 			* Impatient
 			* Urgency
 		* B
 			* Rarely hurried
 			* Rarely hostile
-		* Equally intelligent, though A is hard on his health and actually in stroke risk. B tends to emmenate confidence and security
+		* Equally intelligent, though A is hard on his health and actually in stroke risk. B tends to emanate confidence and security
 	* X/Y
 		* X
 			* Mediocre
@@ -103,7 +103,7 @@
 	* I/X
 		* I
 			* Intrinsic
-			* Altruristic
+			* Altruistic
 			* Creative
 			* Heuristic
 		* X
@@ -140,7 +140,7 @@
 
 ####Competence - Mastery
 
-* Autotelic expirience
+* Autotelic experience
 	* Internally drive
 	* Trance, not being able to describe the feeling on what was going on
 	* Flow
@@ -149,8 +149,8 @@
 	* Not too hard
 	* Just perfect
 * Laws
-	* Mindset - infinit improvable
-	* Pain - Effort, deliberate practise
+	* Mindset - infinite improvable
+	* Pain - Effort, deliberate practice
 	* Asymptote - You will never get to perfection
 * General Anxiety Disorder
 	* Symptoms
@@ -161,7 +161,7 @@
 		* Muscle tension
 		* Sleep disturbance
 	* 50 % of symptoms = diagnose
-	* Can be a symptome of lacking flow
+	* Can be a symptom of lacking flow
 	* Denying what we like can give that result within 48 hours if put to the test
 * Work can be better than leisure
 * Dan North - DevDay - Jackstones: the journey to Mastery
@@ -175,7 +175,7 @@
 * We, not I or they
 * Ethical correctness
 * Painters
-	* Intrinsicly motivated painters end up producing better results, and have and easier time through draughts
+	* Intrinsically motivated painters end up producing better results, and have and easier time through draughts
 * Science shows performance is better when driven by purpose over first and second drive.
 
 ###Where do you find your lost marbles?
