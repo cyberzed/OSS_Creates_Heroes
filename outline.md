@@ -10,7 +10,6 @@
 * OSS Projects
 	* 0
 	* 1+
-	* 3+
 	* 5+
 	* 10+
 * Language
