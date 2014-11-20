@@ -55,7 +55,7 @@
 * Primal needs
 	* Not really a thing behind OSS...I hope
 * Rewards
-	* Awards, community recognition
+	* Awards, new secret handshakes
 * The game, the hunt
 	* Feeling of freedom
 	* Altruism
@@ -188,6 +188,10 @@
 			*  In flow
 		*  Mark Seemann - Zone out, check in, move on
 	*  What will your sentence be?
+
+	"What we do in life echoes in eternity"
+	"My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the TRUE emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next."
+
 		*  Created C++
 		*  Had three kids
 		*  Went to the moon
